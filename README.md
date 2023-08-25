@@ -32,6 +32,10 @@ Step10.1: Linear dimensionality reduction using Singular Value Decomposition of 
 
 ### Step12: Predict your test_df values using xgboost
 
+![image](https://github.com/kaushik-prasad-dey/Mercedes-Benz-Greener-Manufacturing/assets/109330283/6960a3db-ebf7-4520-9c1a-efcb38451a74)
+
+![image](https://github.com/kaushik-prasad-dey/Mercedes-Benz-Greener-Manufacturing/assets/109330283/cfa7330e-eec9-46e3-9e36-7ca875ea958b)
+
 
 
 
